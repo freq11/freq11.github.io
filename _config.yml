@@ -31,7 +31,9 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Hi I'm Patrick 👨‍💻; Brooklyn based. Love tech, sci-fi, and cooking.
+  Hi, I'm Patrick👨‍💻.
+  I work in healthcare tech and live in Brooklyn.
+  I love records, soccer, tech, sci-fi, and cooking.
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,7 +44,7 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
+  name:                Patrick Jordan
   email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -75,10 +77,10 @@ accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
-google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+google_fonts:          Raleway:600|Noto+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                  Noto Sans, Helvetica, Arial, sans-serif
+font:                  'Raleway', sans-serif;
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
