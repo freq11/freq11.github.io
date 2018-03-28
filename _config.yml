@@ -80,7 +80,7 @@ accent_color:          '#4fb1ba'
 google_fonts:          Raleway:600|Noto+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                  'Raleway', sans-serif;
+font:                  Raleway, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
