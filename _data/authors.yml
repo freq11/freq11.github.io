@@ -9,7 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Orginally from Milwaukee, WI. I now work in healthcare technology and reside
-    in Brooklyn, NY. 
+    in Brooklyn, NY.
 
     Open `_data/authors.yml` to edit this text.
 
@@ -27,7 +27,7 @@ author1:
   social:
     #twitter:         <username>
     github:          pjordan11
-    # email:           mailto:<mail@domain.tld>
+    email:           mailto:patrick@pjordan.co
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
